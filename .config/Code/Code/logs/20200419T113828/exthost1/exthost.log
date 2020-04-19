@@ -1,0 +1,72 @@
+[2020-04-19 11:38:30.027] [exthost] [info] extension host started
+[2020-04-19 11:38:30.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-04-19 11:38:30.064] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-04-19 11:38:30.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-04-19 11:38:30.069] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2020-04-19 11:38:30.100] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-04-19 11:38:30.100] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-04-19 11:38:30.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-04-19 11:38:30.152] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-04-19 11:38:30.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-04-19 11:38:30.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2020-04-19 11:38:30.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-04-19 11:38:30.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-04-19 11:38:30.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-04-19 11:38:30.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-04-19 11:38:30.171] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-04-19 11:38:30.171] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-04-19 11:38:30.190] [exthost] [info] ExtensionService#_doActivateExtension lihui.vs-color-picker {"startup":true,"extensionId":{"value":"lihui.vs-color-picker","_lower":"lihui.vs-color-picker"},"activationEvent":"*"}
+[2020-04-19 11:38:30.190] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/lihui.vs-color-picker-1.0.0/out/src/extension
+[2020-04-19 11:38:30.192] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-04-19 11:38:30.192] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-04-19 11:38:30.204] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2020-04-19 11:38:30.204] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2020-04-19 11:38:30.206] [exthost] [info] eager extensions activated
+[2020-04-19 11:40:11.692] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":false,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-04-19 11:40:11.692] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-04-19 11:40:13.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-04-19 11:40:13.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2020-04-19 11:40:13.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-04-19 11:40:13.223] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-04-19 11:40:13.252] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-04-19 11:40:13.252] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-04-19 11:40:37.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-04-19 11:40:37.509] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extension
+[2020-04-19 11:40:37.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-04-19 11:40:37.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/main
+[2020-04-19 11:40:46.005] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":false,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2020-04-19 11:40:46.005] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2020-04-19 11:40:54.474] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:javascript"}
+[2020-04-19 11:40:54.474] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-04-19 11:40:55.903] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-04-19 11:40:55.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-04-19 11:41:32.795] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-04-19 11:41:32.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/esbenp.prettier-vscode-4.4.0/dist/extension
+[2020-04-19 11:41:51.284] [exthost] [info] ExtensionService#_doActivateExtension chrmarti.regex {"startup":false,"extensionId":{"value":"chrmarti.regex","_lower":"chrmarti.regex"},"activationEvent":"onLanguage:javascript"}
+[2020-04-19 11:41:51.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/chrmarti.regex-0.2.0/out/src/extension
+[2020-04-19 11:42:16.543] [exthost] [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix {"startup":false,"extensionId":{"value":"sporiley.css-auto-prefix","_lower":"sporiley.css-auto-prefix"},"activationEvent":"*"}
+[2020-04-19 11:42:16.543] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/sporiley.css-auto-prefix-0.1.7/extension
+[2020-04-19 11:43:04.800] [exthost] [info] ExtensionService#_doActivateExtension bierner.emojisense {"startup":false,"extensionId":{"value":"bierner.emojisense","_lower":"bierner.emojisense"},"activationEvent":"*"}
+[2020-04-19 11:43:04.800] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/bierner.emojisense-0.6.1/dist/extension
+[2020-04-19 11:43:15.934] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":false,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-04-19 11:43:15.934] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-04-19 11:44:37.606] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":false,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2020-04-19 11:44:37.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/vscodevim.vim-1.13.1/out/extension
+[2020-04-19 11:45:32.064] [exthost] [info] ExtensionService#_doActivateExtension shalldie.background {"startup":false,"extensionId":{"value":"shalldie.background","_lower":"shalldie.background"},"activationEvent":"*"}
+[2020-04-19 11:45:32.064] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/toy/.vscode/extensions/shalldie.background-1.1.23/out/extension
+[2020-04-19 11:45:32.080] [exthost] [error] Activating extension shalldie.background failed due to an error:
+[2020-04-19 11:45:32.083] [exthost] [error] Error: EACCES: permission denied, open '/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.css'
+	at Object.openSync (fs.js:447:3)
+	at Object.func (electron/js2c/asar.js:140:31)
+	at Object.func [as openSync] (electron/js2c/asar.js:140:31)
+	at Object.writeFileSync (fs.js:1206:35)
+	at Background.saveCssContent (/home/toy/.vscode/extensions/shalldie.background-1.1.23/out/background.js:106:26)
+	at Background.install (/home/toy/.vscode/extensions/shalldie.background-1.1.23/out/background.js:184:14)
+	at Background.initialize (/home/toy/.vscode/extensions/shalldie.background-1.1.23/out/background.js:120:18)
+	at Background.watch (/home/toy/.vscode/extensions/shalldie.background-1.1.23/out/background.js:227:14)
+	at activate (/home/toy/.vscode/extensions/shalldie.background-1.1.23/out/extension.js:24:53)
+	at Function._callActivateOptional (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:788:244)
+	at Function._callActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:787:909)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:786:960
+	at async Promise.all (index 0)
+	at async h.$activate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:793:297)
